@@ -1,0 +1,15 @@
+#salam::after{
+
+    
+    content: "";
+    width: 45px;
+    position: absolute;
+    border: 2px solid;
+    left: 883px;
+    top: 49px;
+    border-radius: 5px;
+    color: #2196f3;
+}
+#salam h2{
+    text-align: center;
+}
